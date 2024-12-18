@@ -4,7 +4,7 @@
         <h2>Frappe Charts</h2>
     </a>
     <p align="center">
-        <p>GitHub-inspired modern, intuitive and responsive charts with zero dependencies</p>
+        <p>GitHub Inspired modern, intuitive and responsive charts with zero dependencies</p>
         <a href="https://frappe.github.io/charts">
             <b>Explore Demos » </b>
         </a>
